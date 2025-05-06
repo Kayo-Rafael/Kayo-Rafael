@@ -1,6 +1,4 @@
-# 💫
-👋 Olá! Eu sou o Kayo Rafael<br><br>🎓 Estudante de Análise e Desenvolvimento de Sistemas  <br>💻 Apaixonado por desenvolvimento backend, com foco especial em C#  <br>🚀 Em constante evolução, sempre buscando novos desafios e aprendizados
-
+👋 Hi! I'm Kayo Rafael, a 🎓 Systems Analysis and Development student. I have a passion for backend development, with a special focus on C#. However, I'm not limited to these areas; I'm always eager to explore and learn about various aspects of software engineering. Whether it's new programming languages, frameworks, or technologies, I'm constantly seeking to expand my knowledge and skills.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayodev/)
