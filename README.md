@@ -1,7 +1,16 @@
 # 👋 Kayo Rafael
 
 ## About Me
-A 🎓 Systems Analysis and Development student with a strong enthusiasm for backend development. I have a particular focus on C#, .NET, and .NET Core, as well as experience and interest in cloud technologies, especially Microsoft Azure.<br>I'm driven by curiosity and the constant desire to grow as a developer. I'm always eager to learn new programming languages, frameworks, and tools that can add value to my projects and professional journey.<br>I believe continuous learning is essential in the tech field, and I strive to apply clean code principles, SOLID practices, and well-structured architecture in everything I build.
+🎓 Software Engineering student with a strong passion for backend development. Specializing in C#, .NET, and .NET Core, with growing expertise in cloud technologies (Microsoft Azure).
+
+💻 Driven by intellectual curiosity and continuous professional growth, I actively explore new languages, frameworks, and tools to enhance my projects and technical capabilities.
+
+🔧 Committed to implementing clean code principles, SOLID practices, and well-architected solutions. I believe lifelong learning is fundamental in technology, and I'm dedicated to:
+• Building robust backend systems
+• Mastering cloud-native development
+• Applying software engineering best practices
+
+🌱 Currently expanding my knowledge in distributed systems and microservices architecture.
 
 ---
 
